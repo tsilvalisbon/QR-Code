@@ -1,0 +1,18 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+p{
+    font-size: 15px;
+}
+
+.attribution {
+    font-size: 11px; 
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
