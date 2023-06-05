@@ -1,13 +1,5 @@
-(W3Schools)
-- [Author]
-  (Tomás Silva)
-
 ## Overview
 This is a solution to the QR code component challenge on Frontend Mentor (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-### Screenshot
-
-["C:\Users\User\Pictures\Screenshots\Screenshot 2023-06-05 232409.png"]
 
 ### Links
 
