@@ -7,7 +7,7 @@ This is a solution to the QR code component challenge on Frontend Mentor (https:
 
 ### Screenshot
 
-[image.png]
+["C:\Users\User\Pictures\Screenshots\Screenshot 2023-06-05 232409.png"]
 
 ### Links
 
